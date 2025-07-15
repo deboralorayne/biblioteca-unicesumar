@@ -25,6 +25,19 @@ O projeto consiste em uma aplicação web desenvolvida com **Java (Servlet + JSP
 
 ---
 
+## 🖼️ Imagens do Sistema
+
+### 📥 Formulário de Cadastro de Livros
+![Formulário](screenshots/formulario-cadastro.png)
+
+### 📚 Lista de Livros
+![Lista](screenshots/lista-livros.png)
+
+### ❌ Mensagem de Erro (ISBN Inválido)
+![Erro](screenshots/mensagem-erro.png)
+
+---
+
 ## 📦 Estrutura do Projeto
 
 ```
